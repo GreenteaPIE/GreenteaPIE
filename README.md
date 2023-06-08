@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GreenteaPIE
-- 👀 I’m interested in ...  JAVA, JSP, CSS
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in ...  
+- 🌱 I’m currently learning ... JAVA
 - 💞️ My Git blog ... https://greenteapie.github.io/
 - 💞️ My Youtube ... https://www.youtube.com/channel/UCh_WgALJkSa-LnrcZP7RcGw
 
