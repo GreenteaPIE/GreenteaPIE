@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GreenteaPIE
-- 🌱 I’m currently learning ... JAVA , Spring , SpringBoot
+- 🌱 I’m currently learning ... JAVA , Spring , SpringBoot, SQL
 - 💞️ My Git blog ... https://greenteapie.github.io/
 - 💞️ My Youtube ... https://www.youtube.com/channel/UCh_WgALJkSa-LnrcZP7RcGw
 
